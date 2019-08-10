@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file alias="ffa-brands">fonts/ffa-brands-regular-400.otf</file>
+        <file alias="ffa">fonts/ffa-regular-400.otf</file>
+        <file alias="ffa-solid">fonts/ffa-solid-900.otf</file>
+    </qresource>
+</RCC>
